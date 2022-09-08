@@ -1,0 +1,159 @@
+@font-face {
+    src: url("media/Inter/static/Inter-Regular.ttf");
+    font-family: "Inter";
+}
+body{
+    background-color: #F2F2F2;
+}
+a{
+    text-decoration: none;
+
+}
+.navbar > .navbar-brand{
+    font-family: 'Inter';
+    color: #282828;
+    font-size: 20px;
+}
+
+.navbar-nav > li > a{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    margin-left: 10px;
+}
+
+#header > div > h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-transform: uppercase;
+}
+
+#header > div > p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+#zakaz-us{
+    width: 263px;
+    height: 59px;
+    background-color: #FF6868;
+    border: solid;
+    align-items: center;
+    gap: 10px;
+}
+
+.headingText{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #282828;
+}
+
+.img-stock img{
+    position: absolute;
+    display: inline-flex;
+}
+
+.center {
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+.p-text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #282828;
+}
+.card-h-text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+}
+.card-p-text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 24px;
+    color: #232323;
+}
+.card-h-ser{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+
+    color: #232323;
+
+}
+
+.card-p-ser{
+    ont-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #232323;
+}
+
+.h-text-body3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #232323;
+
+}
+
+.p-text-body3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #232323;
+}
+
+#foot-h{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 63px;
+
+}
+
+.p-footer{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #ACACAC;
+}
